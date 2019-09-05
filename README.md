@@ -40,11 +40,11 @@ Next, create a bulleted list of some of your favorite things about CS193 (if you
 When you're done, commit your changes, just as you did above and you're done! **CONGRATULATIONS** you just completed your first CS193 homework :) Give yourself a pat on the back and bask in the glory of your brand new fancy GitHub Website!
 
 ###
--Memes
--Teachers
--No exams
--Entertaining
--Its useful
+- Memes
+- Teachers
+- No exams
+- Entertaining
+- Its useful
 
 ## Optional Extra - Change the Theme of Your Website
 If you aren't a fan of the super cool hacker theme that I chose to be the default of your website, you can easily change it.
