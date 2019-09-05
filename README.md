@@ -1,4 +1,4 @@
-# CS 193 Homework 1 - GitHub and Your Own Website!
+# Philip Lee's CS 193 Homework 1 - GitHub and Your Own Website!
 
 ## What is this assignment
 
